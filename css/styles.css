@@ -64,14 +64,20 @@ div img.top-cloud{
 }
 
 .profile-img{
-	height: 200px;
-	width: 200px;
+	height: 150px;
+	width: 150px;
 	border-radius: 50%;
 }
 
+
+div.middle-container div.skills div.skill-row a{
+	display: block;
+}
+
+
 div.middle-container div.skills div.skill-row{
 	width: 50%;
-	margin:100px auto;
+	margin:200px auto;
 	text-align: left;
 	line-height: 2;
 }
@@ -80,6 +86,7 @@ div.middle-container div.skills div.skill-row img.chilli-img{
 	width: 25%;
 	float: left;
 	margin-right: 20px;
+	margin-bottom: 130px;
 }
 
 div.middle-container div.skills div.skill-row img.code-img{
